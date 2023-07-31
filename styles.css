@@ -53,6 +53,7 @@ body {
 
 /* Footer Styles */
 footer {
+  color: #fef2bf;
   padding: 20px;
   text-align: center;
   position: relative;
@@ -62,6 +63,8 @@ footer {
 
 .footer-content {
   font-family: "Press Start 2P", cursive;
-  color: #fef2bf;
+}
+
+.footer-content p {
   margin: 5px;
 }
